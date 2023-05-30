@@ -26,7 +26,7 @@ usermgt(){
         id $name
 }
 filemgt(){
-        if (( tail -6 /etc/passwd/ ))
+        if (( id adam = 0 ))
         then
         echo ' it is alive '
         grep adam /etc/passwd/
