@@ -9,3 +9,7 @@ read    cpt
         touch $cpt
         echo " $cpt Copy filename "
         sudo cp $cpt new123.sh
+        
+        
+        
+        
