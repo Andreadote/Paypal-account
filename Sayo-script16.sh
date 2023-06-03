@@ -7,3 +7,7 @@ read    name
         echo " Please do enter your age "
 read    age
         echo " The username $name and $age is correct, proceed to next step. "
+
+
+
+
